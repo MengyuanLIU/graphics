@@ -1,0 +1,5 @@
+﻿  gl_1.cpp
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\gl_1.cpp(254): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\gl_1.cpp(256): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  ConsoleApplication1.vcxproj -> C:\Users\MayoL\Documents\Visual Studio 2017\Projects\ConsoleApplication1\Debug\gl_1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\MayoL\Documents\Visual Studio 2017\Projects\ConsoleApplication1\Debug\gl_1.pdb (Partial PDB)
