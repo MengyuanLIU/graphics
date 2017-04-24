@@ -1,0 +1,6 @@
+﻿  ConsoleApplication3.cpp
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(24): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(129): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  ConsoleApplication3.vcxproj -> C:\Users\MayoL\documents\visual studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\MayoL\documents\visual studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Partial PDB)

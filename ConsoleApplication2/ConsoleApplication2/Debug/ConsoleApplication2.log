@@ -1,0 +1,29 @@
+﻿  ConsoleApplication2.cpp
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(420): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(449): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(454): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 参见“fscanf”的声明
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(456): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 参见“fscanf”的声明
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(459): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“GLubyte *”
+  c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(459): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(459): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“GLubyte *”
+  c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(459): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(459): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“GLubyte *”
+  c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(459): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(459): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 参见“fscanf”的声明
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(461): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 参见“fscanf”的声明
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(464): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 参见“fscanf”的声明
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(466): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 参见“fscanf”的声明
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(467): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 参见“fscanf”的声明
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(602): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\mayol\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(604): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  ConsoleApplication2.vcxproj -> C:\Users\MayoL\documents\visual studio 2017\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\MayoL\documents\visual studio 2017\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Partial PDB)
